@@ -27,7 +27,7 @@ A full stack blog application built with react(frontend) and node + express(back
 
 5. Frontend Setup
 
-   -npm install
+      -npm install
   
-  -npm start
+       -npm start
 
