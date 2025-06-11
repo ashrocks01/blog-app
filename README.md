@@ -14,3 +14,14 @@ A full stack blog application built with react(frontend) and node + express(back
 - Backend: Node.js + express
 - Communication: REST API
 - Storage: In-memory
+
+3. Backend Setup
+  -cd frontend
+  -npm install
+  -npm start
+
+4. Frontend Setup
+  -cd frontend
+  -npm install
+  -npm start
+
