@@ -18,11 +18,12 @@ A full stack blog application built with react(frontend) and node + express(back
 - Storage: In-memory
 
 3. Backend Setup
+   
   -cd frontend
   -npm install
   -npm start
 
-4. Frontend Setup
+5. Frontend Setup
   -cd frontend
   -npm install
   -npm start
