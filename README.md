@@ -1,6 +1,6 @@
 A full stack blog application built with react(frontend) and node + express(backend).
 
-Features:
+1. Features:
 - Create new blog posts
 - View all blog posts
 - Edit existing posts
@@ -8,7 +8,8 @@ Features:
 - Responsive UI
 - Backend REST API with in-memory storage.
 
-  Tech Stack:
+
+  2. Tech Stack:
 - Frontend: React, Functional components, react hooks
 - Backend: Node.js + express
 - Communication: REST API
