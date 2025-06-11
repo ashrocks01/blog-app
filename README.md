@@ -1,6 +1,6 @@
 A full stack blog application built with react(frontend) and node + express(backend).
 
-1. Features:
+i. Features:
 - Create new blog posts
 - View all blog posts
 - Edit existing posts
